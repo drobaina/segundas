@@ -11,7 +11,7 @@ output:
 library(flexdashboard)
 ```
 
-### Leaflet is a JavaScript library for creating dynamic maps that support panning and zooming along with various annotations.
+### Leaflet is a JvvavaScript library for creating dynamic maps that support panning and zooming along with various annotations.
 
 ```{r}
 library(leaflet)
